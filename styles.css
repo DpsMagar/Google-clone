@@ -149,6 +149,12 @@ i{
     width:50px;
     padding: 4px;
 }
+.apps1 div svg:hover{
+    filter: brightness(150%);
+}
+.apps2 div svg:hover{
+    filter: brightness(150%);
+}
 .apps2 svg{
     height:50px;
     width:50px;
